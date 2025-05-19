@@ -1,1 +1,2 @@
 test GitHub
+Це змiни з гiлки new-branch
